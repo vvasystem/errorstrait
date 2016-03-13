@@ -1,6 +1,6 @@
 <?php
 
-namespace vvasystem\errorstrait;
+namespace assistance\errorstrait;
 
 class Errors
 {

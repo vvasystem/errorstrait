@@ -14,6 +14,6 @@
         "php": ">=5.5"
     },
     "autoload": {
-        "psr-0": { "vvasystem\\errorstrait": "src/" }
+        "psr-0": { "vvasystem\\assistance\\errorstrait": "src/" }
     }
 }
