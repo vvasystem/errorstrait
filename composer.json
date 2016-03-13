@@ -10,9 +10,6 @@
             "email": "vvasystem@gmail.com"
         }
     ],
-    "require": {
-        "php": ">=5.5"
-    },
     "autoload": {
         "psr-0": { "assistance\\errorstrait": "src/" }
     },
