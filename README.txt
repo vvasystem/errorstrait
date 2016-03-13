@@ -1,0 +1,1 @@
+Simple Errors Trait for PHP classes.

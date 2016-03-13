@@ -1,0 +1,19 @@
+{
+    "name": "vvasystem/errorstrait",
+    "description": "Simple Errors Trait for PHP classes",
+    "keywords": ["errors", "simple errors", "simple errors class"],
+    "homepage": "https://github.com/vvasystem/errorstrait",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Victor Vasilev",
+            "email": "vvasystem@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-0": { "vvasystem\\errorstrait": "src/" }
+    }
+}
