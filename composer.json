@@ -11,7 +11,7 @@
         }
     ],
     "autoload": {
-        "psr-0": { "assistance\\errorstrait": "src/" }
+        "psr-0": { "Assistance\\ErrorsTrait": "src/" }
     },
     "extra":{
         "branch-alias": {

@@ -1,6 +1,6 @@
 <?php
 
-namespace assistance\errorstrait;
+namespace Assistance\ErrorsTrait;
 
 class Errors
 {
