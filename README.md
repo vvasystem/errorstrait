@@ -4,8 +4,11 @@ Errors Trait
 Simple Errors Trait for PHP classes.
 
 For example:
+==
 
-You have some class
+You have some class.
+
+```php
 
 class Process 
 {
@@ -25,7 +28,11 @@ class Process
 	}
 }
 
+```
+
 How to use?
+
+```php
 
 //...
 require __DIR__ . '/vendor/autoload.php';
@@ -62,4 +69,4 @@ if ($errors->hasErrors()) {
 	}
 }
 
-
+```
