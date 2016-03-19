@@ -1,10 +1,10 @@
 Errors Trait
-=====
+============
 
 Simple Errors Trait for PHP classes.
 
 For example:
-==
+------------
 
 You have some class.
 
