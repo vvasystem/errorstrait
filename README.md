@@ -12,7 +12,13 @@ You have some class.
 
 class Process 
 {
+	
+    /**
+     * Use error trait
+     */
 	use \Assistance\ErrorsTrait\ErrorTrait;
+
+	//...
 
     /**
      * Run process
