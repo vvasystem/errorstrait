@@ -3,8 +3,6 @@
     "description": "Simple Errors Trait for PHP classes",
     "keywords": ["errors", "simple errors", "simple errors class"],
     "homepage": "https://github.com/vvasystem/errorstrait",
-    "minimum-stability": "dev",
-    "prefer-stable": true,
     "license": "MIT",
     "authors": [
         {
@@ -20,7 +18,7 @@
     },
     "extra":{
         "branch-alias": {
-            "dev-master": "1.0-dev"
+            "dev-master": "1.0-stable"
         }
     }
 }
