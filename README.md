@@ -3,8 +3,15 @@ Errors Trait
 
 Simple Errors Trait for PHP classes.
 
-For example:
-------------
+## Install
+
+```
+composer require vvasystem/errorstrait
+
+```
+
+## How to use?
+
 
 You have some class.
 
@@ -35,8 +42,7 @@ class Process
 }
 
 ```
-
-How to use?
+and...
 
 ```php
 
